@@ -1,20 +1,32 @@
 {
-  "daoAddress": "0x592B213bf0176c1f3b2a6F5EfE632eAC4b5453EE",
-  "votingAddress": "0x790d73e8690042f37df0194c6e5835bf4d340638",
-  "financeAddress": "0x3ceec51601e17ac69f6acb10a214c9bb7a86ac24",
+  "daoAddress": "beehive",
+  "votingAddress": "0x709e31ba29fb84000f20045590ec664bfc3cdc1d",
+  "financeAddress": "0x63ff4d08ac426c595846f6deeca25da7bd92d1b9",
   "environment": "mainnet",
   "payments": [
     {
-      "tokenAddress": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
-      "receiverAddress": "0x7c343AbB2b180732583a3134E4A9f6e138D320D2",
-      "amount": "500000000000000000000",
-      "receipt": "Milestone 2 - @paulo"
+      "tokenAddress": "0x3779f00aE2E7591BF5372649D8D9a4892A011C70",
+      "receiverAddress": "0xdf8f53B9f83e611e1154402992c6F6CB7Daf246c",
+      "amount": "0",
+      "receipt": "Sprint 7 - Rodri"
     },
     {
-      "tokenAddress": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
-      "receiverAddress": "0xDc2aDfA800a1ffA16078Ef8C1F251D50DcDa1065",
-      "amount": "500000000000000000000",
-      "receipt": "Milestone 2 - @sem"
+      "tokenAddress": "0x3779f00aE2E7591BF5372649D8D9a4892A011C70",
+      "receiverAddress": "0xb18b276815d90e86ef0878e6ff57f765ef444e8d",
+      "amount": "0",
+      "receipt": "Sprint 7 - Fiore"
+    },
+    {
+      "tokenAddress": "0x3779f00aE2E7591BF5372649D8D9a4892A011C70",
+      "receiverAddress": "0x60a9372862bD752CD02D9AE482F94Cd2fe92A0Bf",
+      "amount": "0",
+      "receipt": "Sprint 7 - Fabri"
+    },
+    {
+      "tokenAddress": "0x3779f00aE2E7591BF5372649D8D9a4892A011C70",
+      "receiverAddress": "0x5141970563C7d70a129A05f575e9e34DF4bD81d8",
+      "amount": "0",
+      "receipt": "Sprint 7 - Will"
     }
   ]
 }
